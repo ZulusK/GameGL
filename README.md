@@ -1,5 +1,5 @@
 # GameGL
-### [Documentation](https://drive.google.com/drive/folders/0B_Ji9DdaRqhMRGlwakJLZlFscDA)
+### [Documentation](https://drive.google.com/open?id=0B_Ji9DdaRqhMV3EtMjN4UGtBbm8)
 ### The main idea of the project:
 
 > GameGL is the work for the Minor Academy of Sciences of Ukraine. Contains tools for creating three-dimensional scenes and interacting with them. In the source files, you can find a demo-labyrinth game in which the user can create a world of blocks and wander through it.
